@@ -11,7 +11,18 @@
 - title: Education
   type: time_table
   contents:
-    - title: B.S. in Biochemistry
+      - title: Ph.D. in Computational Neuroscience
+      institution: Boston University, Boston, Massachusetts, US
+      year: 2021 - current
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+
+      - title: B.S. in Biochemistry
       institution: Oakwood University, Huntsville, Alabama, US
       year: 2020
       description:
